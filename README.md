@@ -22,5 +22,5 @@ The reason we want to address this issue is that we see alot of high quality FOS
 
 ## Future work
 
-* Components for everyone :tada: :rocket:
-* Separate `<Component />` language that can traspile to other markup (DOM, ReactNative, etc.)
+* Lot's of components for everyone :tada: :rocket:
+* Separate `<Component />` language that can transpile to other markup (React, ReactNative, DOM, etc.)
