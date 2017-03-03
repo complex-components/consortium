@@ -8,6 +8,8 @@ If you want to make a FOSS [Slack](https://slack.com/) clone, it is our mission 
 
 ## Mission statement
 
+Our mission is to futher the use of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) and improve the quality and usability of such software by providing quality high level user interface components for them to use. 
+
 ## Complex Components
 
 ## Technologies
