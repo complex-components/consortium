@@ -12,8 +12,15 @@ Our mission is to futher the use of [FOSS](https://en.wikipedia.org/wiki/Free_an
 
 ## Complex Components
 
+`Complex components` are parts of a user interface that have quite complex functionality and/or interaction. Traditionally a component is a low level building block that can be composed to build larger, more complex components. Complex components are not like that. They are more high level serving a specific purpose. They can still be included in your application and customized.
+
+The reason we want to address this issue is that we see alot of high quality FOSS with low quality user interfaces. This makes it hard to get end-users using FOSS and is just terrible in general for everyone. We can do better!
+
 ## Technologies
 
 ## Example
 
 ## Future work
+
+* Components for everyone :tada: :rocket:
+* Separate `<Component />` language that can traspile to other markup (DOM, ReactNative, etc.)
